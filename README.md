@@ -1,3 +1,7 @@
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5a87c22c-cf57-40f8-8602-63405fc56865/c0af1323-520e-434d-9259-fb6e28a69e66.png" /></a>
+## Coding - Activity
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5a87c22c-cf57-40f8-8602-63405fc56865/8cf22404-a250-4890-a296-645d65229257.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5a87c22c-cf57-40f8-8602-63405fc56865/8ef9fe34-b9ed-4d43-b17a-2155e703f4bf.png" /></a>
+
+## Coding - Languages
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5a87c22c-cf57-40f8-8602-63405fc56865/58e8f77c-d1d6-4068-be7e-ec1b2ab66055.png" /></a>
