@@ -1,1 +1,1 @@
-<embed src="https://wakatime.com/share/@5a87c22c-cf57-40f8-8602-63405fc56865/e3c4ac23-e632-4bd1-92b2-6e157d92b1a3.svg"></embed>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5a87c22c-cf57-40f8-8602-63405fc56865/c0af1323-520e-434d-9259-fb6e28a69e66.png" /></a>
